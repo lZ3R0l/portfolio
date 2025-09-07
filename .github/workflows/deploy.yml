@@ -30,3 +30,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           user_name: lZ3R0l
+          user_email: galaxyeye.1999@gmail.com
