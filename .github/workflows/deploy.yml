@@ -30,6 +30,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ../dist
+          publish_dir: ./dist
           user_name: lZ3R0l
           user_email: galaxyeye.1999@gmail.com
